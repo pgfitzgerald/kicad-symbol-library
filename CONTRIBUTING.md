@@ -52,7 +52,7 @@ You may review existing library symbols for examples of the following.
 ### Elements, Line Widths, and Line Styles
 
 - Envelopes shall be circles with a **400 mil** radius and a **10 mil** line width
-- The line style of the *right* half of Triode envelopes shall be **Dashed**
+- The line style of the *right* half of partial triode envelopes shall be **Dashed**
 - Anodes shall be rectangles with a **40 mil** height, **5 mil** corner radius, **1 mil** line width, and **solid** fill
 - Cathodes shall match anode characteristics but shall also include "legs"
 - Cathode legs shall be rectangles with a **20 mil** height, **5 mil** corner radius, **1 mil** line width, and **solid** fill
