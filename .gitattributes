@@ -1,0 +1,8 @@
+##
+## https://klc.kicad.org/general/g1/g1.7.html
+## https://gitlab.com/kicad/libraries/kicad-symbols/-/blob/master/.gitattributes
+##
+
+* text=auto
+*.kicad_sym diff=histogram
+
