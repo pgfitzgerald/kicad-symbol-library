@@ -747,7 +747,7 @@
 				(end 0 -10.16)
 				(stroke
 					(width 0.254)
-					(type dash)
+					(type default)
 				)
 				(fill
 					(type none)
@@ -759,7 +759,7 @@
 				(end 0 10.16)
 				(stroke
 					(width 0.254)
-					(type default)
+					(type dash)
 				)
 				(fill
 					(type none)
